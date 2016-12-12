@@ -1,0 +1,16 @@
+.prwp-method {
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    background: black;
+    margin-left: 5px;
+}
+
+.prwp-method.AWSRekognition {
+    background: url('../img/AWSRekognition.png') 0 0 no-repeat;
+}
+
+.prwp-method.GoogleCloudVision {
+    background: url('../img/GoogleCloudVision.png') 0 0 no-repeat;
+
+}
